@@ -12,6 +12,8 @@ import {
 
 import mindImg from '../../images/mind.svg';
 
+import questions from '../../constants/data.json';
+
 import {
   CATEGORIES,
   NUM_OF_QUESTIONS,
@@ -50,6 +52,28 @@ const Main = ({ startQuiz }) => {
     (countdownTime.hours || countdownTime.minutes || countdownTime.seconds)
   ) {
     allFieldsSelected = true;
+  }
+
+  const fetchDataL = () => {
+    const results = questions.sort(() => 0.5 - Math.random());
+    let selectn = numOfQuestions
+    if(selectn>results.length){
+      selectn=results.length
+    }
+    let selection = results.slice(0, numOfQuestions);
+
+    selection.forEach(element => {
+      element.options = shuffle([
+        element.correct_answer,
+        ...element.incorrect_answers,
+      ]);
+    });
+
+    setProcessing(false);
+    startQuiz(
+      selection,
+      countdownTime.hours + countdownTime.minutes + countdownTime.seconds
+    );
   }
 
   const fetchData = () => {
@@ -110,7 +134,7 @@ const Main = ({ startQuiz }) => {
       );
   };
 
-  if (offline) return <Offline />;
+  //if (offline) return <Offline />;
 
   return (
     <Container>
@@ -130,7 +154,7 @@ const Main = ({ startQuiz }) => {
               )}
               <Divider />
               <Item.Meta>
-                <Dropdown
+                {/* <Dropdown
                   fluid
                   selection
                   name="category"
@@ -141,7 +165,7 @@ const Main = ({ startQuiz }) => {
                   onChange={(e, { value }) => setCategory(value)}
                   disabled={processing}
                 />
-                <br />
+                <br /> */}
                 <Dropdown
                   fluid
                   selection
@@ -154,7 +178,7 @@ const Main = ({ startQuiz }) => {
                   disabled={processing}
                 />
                 <br />
-                <Dropdown
+                {/* <Dropdown
                   fluid
                   selection
                   name="difficulty"
@@ -177,7 +201,7 @@ const Main = ({ startQuiz }) => {
                   onChange={(e, { value }) => setQuestionsType(value)}
                   disabled={processing}
                 />
-                <br />
+                <br /> */}
                 <Dropdown
                   search
                   selection
@@ -220,7 +244,7 @@ const Main = ({ startQuiz }) => {
                   icon="play"
                   labelPosition="left"
                   content={processing ? 'Processing...' : 'Play Now'}
-                  onClick={fetchData}
+                  onClick={fetchDataL}
                   disabled={!allFieldsSelected || processing}
                 />
               </Item.Extra>

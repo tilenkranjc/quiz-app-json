@@ -88,7 +88,7 @@ const Quiz = ({ data, countdownTime, endQuiz }) => {
                 <br />
                 <Item.Meta>
                   <Message size="huge" floating>
-                    <b>{`Q. ${he.decode(data[questionIndex].question)}`}</b>
+                    <b dangerouslySetInnerHTML={{ __html:data[questionIndex].question}}></b>
                   </Message>
                   <br />
                   <Item.Description>
@@ -108,7 +108,8 @@ const Quiz = ({ data, countdownTime, endQuiz }) => {
                           onClick={handleItemClick}
                         >
                           <b style={{ marginRight: '8px' }}>{letter}</b>
-                          {decodedOption}
+                          <span dangerouslySetInnerHTML={{ __html:option}}></span>
+                          
                         </Menu.Item>
                       );
                     })}

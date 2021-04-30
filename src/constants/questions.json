@@ -1,0 +1,93 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "&quot;Some people call me the space cowboy&quot; is the first line from what song?",
+      "correct_answer": "The Joker",
+      "incorrect_answers": [
+        "Fandango",
+        "Take The Money and Run",
+        "Fly Like an Eagle"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which English guitarist has the nickname &quot;Slowhand&quot;?",
+      "correct_answer": "Eric Clapton",
+      "incorrect_answers": ["Mark Knopfler", "Jeff Beck", "Jimmy Page"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Where does the Mac part of the name Fleetwood Mac come from?",
+      "correct_answer": "John McVie",
+      "incorrect_answers": ["Christine McVie", "Mac McAnally", "David Tennant"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Eurobeat is primarily an Italian genre of music.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Norwegian producer Kygo released a remix of the song &quot;Sexual Healing&quot; by Marvin Gaye.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many members are there in the idol group &quot;&micro;&#039;s&quot;?",
+      "correct_answer": "9",
+      "incorrect_answers": ["48", "6", "3"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "EDM record label Monstercat is based in which country?",
+      "correct_answer": "Canada",
+      "incorrect_answers": ["United States", "Australia", "United Kingdom"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name of the 2016 mixtape released by Venezuelan electronic producer Arca?",
+      "correct_answer": "Entra&ntilde;as",
+      "incorrect_answers": ["&amp;&amp;&amp;&amp;&amp;&amp;", "Sheep", "Xen"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The heavy metal band Black Sabbath hail from which English city?",
+      "correct_answer": "Birmingham",
+      "incorrect_answers": ["Manchester", "London", "Newcastle-Upon-Tyne"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the name of the rock band that Nobuo Uematsu formed that played songs from various Final Fantasy games?",
+      "correct_answer": "The Black Mages",
+      "incorrect_answers": [
+        "The Final Fantasies",
+        "The Espers",
+        "The Rock Summoners"
+      ]
+    }
+  ]
+}

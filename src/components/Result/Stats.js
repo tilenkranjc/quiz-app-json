@@ -59,7 +59,7 @@ const Stats = ({
           labelPosition="left"
           style={{ marginBottom: 8 }}
         />
-        <ShareButton />
+        {/* <ShareButton /> */}
       </div>
     </Segment>
   );
