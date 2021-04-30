@@ -351,7 +351,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "457.  Na sliki je simbol za:<div><img src=\"/quiz-app/images/paste-b2026f55c1270112a53e2fb6024cf3d4cc7f5354.jpg\"/></div>",
+        "question": "457.  Na sliki je simbol za:<div><img src=\"/quiz-app-json/images/paste-b2026f55c1270112a53e2fb6024cf3d4cc7f5354.jpg\"/></div>",
         "correct_answer": "stalni upor",
         "incorrect_answers": [
             "spremenljivi upor",
@@ -363,7 +363,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "458.  Na sliki je simbol za:<div><img src=\"/quiz-app/images/paste-a7e7a746baf6eb68a3224a7d218e5d6b407bf693.jpg\"/></div>",
+        "question": "458.  Na sliki je simbol za:<div><img src=\"/quiz-app-json/images/paste-a7e7a746baf6eb68a3224a7d218e5d6b407bf693.jpg\"/></div>",
         "correct_answer": "nastavljivi upor",
         "incorrect_answers": [
             "potenciometer",
@@ -375,7 +375,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "459.  Na sliki je simbol za:<div><img src=\"/quiz-app/images/paste-36b493db1b4a861f042147f3e1a0a2b73fd76270.jpg\"/></div>",
+        "question": "459.  Na sliki je simbol za:<div><img src=\"/quiz-app-json/images/paste-36b493db1b4a861f042147f3e1a0a2b73fd76270.jpg\"/></div>",
         "correct_answer": "spremenljivi upor",
         "incorrect_answers": [
             "stalni upor",
@@ -387,7 +387,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "460.  Na sliki je simbol za:<div><img src=\"/quiz-app/images/paste-9478a319a5323d521a6843563451d13e8c289e74.jpg\"/></div>",
+        "question": "460.  Na sliki je simbol za:<div><img src=\"/quiz-app-json/images/paste-9478a319a5323d521a6843563451d13e8c289e74.jpg\"/></div>",
         "correct_answer": "potenciometer",
         "incorrect_answers": [
             "stalni upor",
@@ -399,7 +399,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "488.  Kateri od navedenih signalov je enak vsoti signala A in B?<div><img src=\"/quiz-app/images/paste-ba119b8e47ff3c0f8ad7f5c294535707cbe7227f.jpg\"/></div>",
+        "question": "488.  Kateri od navedenih signalov je enak vsoti signala A in B?<div><img src=\"/quiz-app-json/images/paste-ba119b8e47ff3c0f8ad7f5c294535707cbe7227f.jpg\"/></div>",
         "correct_answer": "Signal na sliki 3",
         "incorrect_answers": [
             "Signal na sliki 1",
@@ -411,7 +411,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "489.  Kateri od navedenih signalov je enak vsoti signala A in B?<div><img src=\"/quiz-app/images/paste-9e78e94d174a1f39d54e4ee2d1ddb80384cf0a88.jpg\"/></div>",
+        "question": "489.  Kateri od navedenih signalov je enak vsoti signala A in B?<div><img src=\"/quiz-app-json/images/paste-9e78e94d174a1f39d54e4ee2d1ddb80384cf0a88.jpg\"/></div>",
         "correct_answer": "Signal na sliki 1",
         "incorrect_answers": [
             "Signal na sliki 2",
@@ -423,7 +423,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "502.  Kolikšna je skupna upornost vezja na sliki?<div><img src=\"/quiz-app/images/paste-6fb0283e74e044bb3b79690f07eac974b7dc6ee9.jpg\"/></div>",
+        "question": "502.  Kolikšna je skupna upornost vezja na sliki?<div><img src=\"/quiz-app-json/images/paste-6fb0283e74e044bb3b79690f07eac974b7dc6ee9.jpg\"/></div>",
         "correct_answer": "250 Ohmov",
         "incorrect_answers": [
             "1000 Ohmov",
@@ -435,7 +435,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "503.  Kolikšna je skupna upornost vezja na sliki?<div><img src=\"/quiz-app/images/paste-f7d66d607481edfe429915595addd888635216d9.jpg\"/></div>",
+        "question": "503.  Kolikšna je skupna upornost vezja na sliki?<div><img src=\"/quiz-app-json/images/paste-f7d66d607481edfe429915595addd888635216d9.jpg\"/></div>",
         "correct_answer": "15 Ohmov",
         "incorrect_answers": [
             "60 Ohmov",
@@ -447,7 +447,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "504.  Kolikšna je skupna upornost vezja na sliki?<div><img src=\"/quiz-app/images/paste-5ac0fc803348e57a2fadfa0ece732a10a90a8137.jpg\"/></div>",
+        "question": "504.  Kolikšna je skupna upornost vezja na sliki?<div><img src=\"/quiz-app-json/images/paste-5ac0fc803348e57a2fadfa0ece732a10a90a8137.jpg\"/></div>",
         "correct_answer": "15 Ohmov",
         "incorrect_answers": [
             "10 Ohmov",
@@ -459,7 +459,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "505.  Kolikšna je skupna upornost vezja na sliki?<div><img src=\"/quiz-app/images/paste-a28e54c47206ea0e4b66d2431119a8aa6139d106.jpg\"/></div>",
+        "question": "505.  Kolikšna je skupna upornost vezja na sliki?<div><img src=\"/quiz-app-json/images/paste-a28e54c47206ea0e4b66d2431119a8aa6139d106.jpg\"/></div>",
         "correct_answer": "20 Ohmov",
         "incorrect_answers": [
             "40 Ohmov",
@@ -471,7 +471,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "506. Izračunaj napetost na uporu R!<div><img src=\"/quiz-app/images/paste-9b94381dac1c11bb2c28184b58fe8a40854aed7b.jpg\"/></div>",
+        "question": "506. Izračunaj napetost na uporu R!<div><img src=\"/quiz-app-json/images/paste-9b94381dac1c11bb2c28184b58fe8a40854aed7b.jpg\"/></div>",
         "correct_answer": "5 V",
         "incorrect_answers": [
             "20 V",
@@ -483,7 +483,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "509. Določi napetost na sponkah realnega generatorja!<div><img src=\"/quiz-app/images/paste-35279d5a25839e4a44c3809cbab86f06613d19a4.jpg\"/></div>",
+        "question": "509. Določi napetost na sponkah realnega generatorja!<div><img src=\"/quiz-app-json/images/paste-35279d5a25839e4a44c3809cbab86f06613d19a4.jpg\"/></div>",
         "correct_answer": "11 V",
         "incorrect_answers": [
             "12 V",
@@ -495,7 +495,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "510.  Izračunaj notranjo upornost generatorja!<div><img src=\"/quiz-app/images/paste-bcd279d88e9840a2e62424a3bd769d26107547b5.jpg\"/></div>",
+        "question": "510.  Izračunaj notranjo upornost generatorja!<div><img src=\"/quiz-app-json/images/paste-bcd279d88e9840a2e62424a3bd769d26107547b5.jpg\"/></div>",
         "correct_answer": "1,0 Ohm",
         "incorrect_answers": [
             "0,1 Ohm",
@@ -507,7 +507,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "511.  Izračunaj vrednost toka I3!<div><img src=\"/quiz-app/images/paste-b82016684648bf36516704800d3e82c65b792a33.jpg\"/></div>",
+        "question": "511.  Izračunaj vrednost toka I3!<div><img src=\"/quiz-app-json/images/paste-b82016684648bf36516704800d3e82c65b792a33.jpg\"/></div>",
         "correct_answer": "0 A",
         "incorrect_answers": [
             "5 A",
@@ -519,7 +519,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "512.  Izračunaj vrednost toka I1!<div><img src=\"/quiz-app/images/paste-6b82f89a257b095a56d03e2676b29eba5241c697.jpg\"/></div>",
+        "question": "512.  Izračunaj vrednost toka I1!<div><img src=\"/quiz-app-json/images/paste-6b82f89a257b095a56d03e2676b29eba5241c697.jpg\"/></div>",
         "correct_answer": "-2 A",
         "incorrect_answers": [
             "0 A",
@@ -531,7 +531,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "513. Izračunaj napetost na uporu R!<div><img src=\"/quiz-app/images/paste-d8fc190b3bcc1f86130519ef4d270685ded306fa.jpg\"/></div>",
+        "question": "513. Izračunaj napetost na uporu R!<div><img src=\"/quiz-app-json/images/paste-d8fc190b3bcc1f86130519ef4d270685ded306fa.jpg\"/></div>",
         "correct_answer": "8 V",
         "incorrect_answers": [
             "6 V",
@@ -543,7 +543,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "514.  Izračunaj napetost baterije!<div><img src=\"/quiz-app/images/paste-862d52a09a9fe5410a76598eb14aca36ad03cfb1.jpg\"/></div>",
+        "question": "514.  Izračunaj napetost baterije!<div><img src=\"/quiz-app-json/images/paste-862d52a09a9fe5410a76598eb14aca36ad03cfb1.jpg\"/></div>",
         "correct_answer": "10 V",
         "incorrect_answers": [
             "1 V",
@@ -555,7 +555,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "515.  Izračunaj vsoto napetosti v zaprti zanki II<div><img src=\"/quiz-app/images/paste-1759487cf0d27c7f735c952b5ebd47cfab61d7ec.jpg\"/></div>",
+        "question": "515.  Izračunaj vsoto napetosti v zaprti zanki II<div><img src=\"/quiz-app-json/images/paste-1759487cf0d27c7f735c952b5ebd47cfab61d7ec.jpg\"/></div>",
         "correct_answer": "0 V",
         "incorrect_answers": [
             "10 V",
@@ -567,7 +567,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "530.  Kolikšno je skupno ojačenje sistema na sliki?<div><img src=\"/quiz-app/images/paste-c8713eec49ce853f2ebd968d38a82e51384201ac.jpg\"/></div>",
+        "question": "530.  Kolikšno je skupno ojačenje sistema na sliki?<div><img src=\"/quiz-app-json/images/paste-c8713eec49ce853f2ebd968d38a82e51384201ac.jpg\"/></div>",
         "correct_answer": "0 dB",
         "incorrect_answers": [
             "10 dB",
@@ -579,7 +579,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "531. Kolikšno je skupno ojačenje sistema na sliki?<div><img src=\"/quiz-app/images/paste-3dcb003a04ec747ef513b41942801b2b826ca405.jpg\"/></div>",
+        "question": "531. Kolikšno je skupno ojačenje sistema na sliki?<div><img src=\"/quiz-app-json/images/paste-3dcb003a04ec747ef513b41942801b2b826ca405.jpg\"/></div>",
         "correct_answer": "5 dB",
         "incorrect_answers": [
             "10 dB",
@@ -591,7 +591,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "536.  Kateri simbol je na sliki?<div><img src=\"/quiz-app/images/paste-18142f726d7e43d08f0fdc7e51f142bccd83ce9d.jpg\"/></div>",
+        "question": "536.  Kateri simbol je na sliki?<div><img src=\"/quiz-app-json/images/paste-18142f726d7e43d08f0fdc7e51f142bccd83ce9d.jpg\"/></div>",
         "correct_answer": "Zračna tuljava",
         "incorrect_answers": [
             "Spremenljiva zračna tuljava",
@@ -603,7 +603,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "537.  Kateri simbol je na sliki?<div><img src=\"/quiz-app/images/paste-2c08c26dbceb7164d3a5636a67d0f26f1084b41f.jpg\"/></div>",
+        "question": "537.  Kateri simbol je na sliki?<div><img src=\"/quiz-app-json/images/paste-2c08c26dbceb7164d3a5636a67d0f26f1084b41f.jpg\"/></div>",
         "correct_answer": "Nastavljiva zračna tuljava",
         "incorrect_answers": [
             "Zračna tuljava",
@@ -615,7 +615,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "538.  Kateri simbol je na sliki?<div><img src=\"/quiz-app/images/paste-ff752be3e1b0cf8d207fe4e2d1dc0946da042bd2.jpg\"/></div>",
+        "question": "538.  Kateri simbol je na sliki?<div><img src=\"/quiz-app-json/images/paste-ff752be3e1b0cf8d207fe4e2d1dc0946da042bd2.jpg\"/></div>",
         "correct_answer": "Tuljava z jedrom",
         "incorrect_answers": [
             "Zračna tuljava",
@@ -627,7 +627,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "545.  Kaj predstavlja simbol?<div><img src=\"/quiz-app/images/paste-3d33bb08ac3b1c4c7038b8601376722f1fd49a30.jpg\"/></div>",
+        "question": "545.  Kaj predstavlja simbol?<div><img src=\"/quiz-app-json/images/paste-3d33bb08ac3b1c4c7038b8601376722f1fd49a30.jpg\"/></div>",
         "correct_answer": "Transformator",
         "incorrect_answers": [
             "Tuljavo z jedrom",
@@ -639,7 +639,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "550.  Kako imenujemo primer vezave navitij transformatorja na sliki?<div><img src=\"/quiz-app/images/paste-5f502bf29ed06d22b54abf19e4809707d892aedf.jpg\"/></div>",
+        "question": "550.  Kako imenujemo primer vezave navitij transformatorja na sliki?<div><img src=\"/quiz-app-json/images/paste-5f502bf29ed06d22b54abf19e4809707d892aedf.jpg\"/></div>",
         "correct_answer": "Zaporedna vezava",
         "incorrect_answers": [
             "Vzporedna vezava",
@@ -651,7 +651,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "551.  Kako imenujemo primer vezave transformatorjev na sliki?<div><img src=\"/quiz-app/images/paste-9becd082c56eae697f45c152158fa8f383ef3946.jpg\"/></div>",
+        "question": "551.  Kako imenujemo primer vezave transformatorjev na sliki?<div><img src=\"/quiz-app-json/images/paste-9becd082c56eae697f45c152158fa8f383ef3946.jpg\"/></div>",
         "correct_answer": "Kaskadna vezava",
         "incorrect_answers": [
             "Vzporedna vezava",
@@ -663,7 +663,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "557. Kateri simbol je na sliki?<div><img src=\"/quiz-app/images/paste-46a0161bc2d1b67f5104f76ded262c061aedfc65.jpg\"/></div>",
+        "question": "557. Kateri simbol je na sliki?<div><img src=\"/quiz-app-json/images/paste-46a0161bc2d1b67f5104f76ded262c061aedfc65.jpg\"/></div>",
         "correct_answer": "Stalni kondenzator",
         "incorrect_answers": [
             "Elektrolitski kondenzator",
@@ -675,7 +675,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "558.  Kateri simbol je na sliki?<div><img src=\"/quiz-app/images/paste-e8df188ce8fb08927e1ee00e1bb2b4ed1cc77965.jpg\"/></div>",
+        "question": "558.  Kateri simbol je na sliki?<div><img src=\"/quiz-app-json/images/paste-e8df188ce8fb08927e1ee00e1bb2b4ed1cc77965.jpg\"/></div>",
         "correct_answer": "Nastavljivi kondenzator",
         "incorrect_answers": [
             "Stalni kondenzator",
@@ -687,7 +687,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "559.  Kateri simbol je na sliki?<div><img src=\"/quiz-app/images/paste-db3284416ab0ab888a1bf4c83677b42296b0e2c9.jpg\"/></div>",
+        "question": "559.  Kateri simbol je na sliki?<div><img src=\"/quiz-app-json/images/paste-db3284416ab0ab888a1bf4c83677b42296b0e2c9.jpg\"/></div>",
         "correct_answer": "Spremenljivi kondenzator",
         "incorrect_answers": [
             "Stalni kondenzator",
@@ -699,7 +699,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "560.  Kateri simbol je na sliki?<div><img src=\"/quiz-app/images/paste-86b5ef9b35ef8f53b1d6799e48d611e4e1573cc0.jpg\"/></div>",
+        "question": "560.  Kateri simbol je na sliki?<div><img src=\"/quiz-app-json/images/paste-86b5ef9b35ef8f53b1d6799e48d611e4e1573cc0.jpg\"/></div>",
         "correct_answer": "Elektrolitski kondenzator",
         "incorrect_answers": [
             "Kremenov kristal",
@@ -711,7 +711,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "570.  Kaj prikazuje slika?<div><img src=\"/quiz-app/images/paste-3c31933db699e7a20a9e2cbf6605af952ba1fc1f.jpg\"/></div>",
+        "question": "570.  Kaj prikazuje slika?<div><img src=\"/quiz-app-json/images/paste-3c31933db699e7a20a9e2cbf6605af952ba1fc1f.jpg\"/></div>",
         "correct_answer": "Zaporedni nihajni krog",
         "incorrect_answers": [
             "Vzporedni nihajni krog",
@@ -723,7 +723,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "571.  Kaj prikazuje slika?<div><img src=\"/quiz-app/images/paste-2dce146126511ab5a34518678d0a8d025df1ed29.jpg\"/></div>",
+        "question": "571.  Kaj prikazuje slika?<div><img src=\"/quiz-app-json/images/paste-2dce146126511ab5a34518678d0a8d025df1ed29.jpg\"/></div>",
         "correct_answer": "Vzporedni nihajni krog",
         "incorrect_answers": [
             "Zaporedni nihajni krog",
@@ -735,7 +735,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "572.  Kaj prikazuje slika?<div><img src=\"/quiz-app/images/paste-24bfc4278e0878f198a0297370bec512c6207218.jpg\"/></div>",
+        "question": "572.  Kaj prikazuje slika?<div><img src=\"/quiz-app-json/images/paste-24bfc4278e0878f198a0297370bec512c6207218.jpg\"/></div>",
         "correct_answer": "Nizkoprepustni filter",
         "incorrect_answers": [
             "Pasovnozaporni filter",
@@ -747,7 +747,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "573.  Kaj prikazuje slika?<div><img src=\"/quiz-app/images/paste-6acc16541e8ac8686f21c554d20ea971448a9120.jpg\"/></div>",
+        "question": "573.  Kaj prikazuje slika?<div><img src=\"/quiz-app-json/images/paste-6acc16541e8ac8686f21c554d20ea971448a9120.jpg\"/></div>",
         "correct_answer": "Visokoprepustni filter",
         "incorrect_answers": [
             "Pasovnozaporni filter",
@@ -759,31 +759,31 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "587.  Po kateri formuli izračunamo resonančno frekvenco nihajnega kroga (L je induktivnost tuljave, C pa kapacitivnost kondenzatorja)?<div><img src=\"/quiz-app/images/paste-bf0f5f08180e54f81d7fddc7ba9f2fd67fa679d4.jpg\"/></div>",
-        "correct_answer": "<img src=\"/quiz-app/images/587A.png\"",
+        "question": "587.  Po kateri formuli izračunamo resonančno frekvenco nihajnega kroga (L je induktivnost tuljave, C pa kapacitivnost kondenzatorja)?<div><img src=\"/quiz-app-json/images/paste-bf0f5f08180e54f81d7fddc7ba9f2fd67fa679d4.jpg\"/></div>",
+        "correct_answer": "<img src=\"/quiz-app-json/images/587A.png\"",
         "incorrect_answers": [
-            "<img src=\"/quiz-app/images/587B.png\"",
-            "<img src=\"/quiz-app/images/587C.png\"",
-            "<img src=\"/quiz-app/images/587D.png\""
+            "<img src=\"/quiz-app-json/images/587B.png\"",
+            "<img src=\"/quiz-app-json/images/587C.png\"",
+            "<img src=\"/quiz-app-json/images/587D.png\""
         ]
     },
     {
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "589. Po kateri formuli izračunamo Q-faktor nihajnega kroga, če sta dani pasovna širina B in resonančna frekvenca Fres?<div><img src=\"/quiz-app/images/paste-3e5500542b913bf1fc22342d78833131832a0ddc.jpg\"/></div>",
-        "correct_answer": "<img src=\"/quiz-app/images/589B.png\"",
+        "question": "589. Po kateri formuli izračunamo Q-faktor nihajnega kroga, če sta dani pasovna širina B in resonančna frekvenca Fres?<div><img src=\"/quiz-app-json/images/paste-3e5500542b913bf1fc22342d78833131832a0ddc.jpg\"/></div>",
+        "correct_answer": "<img src=\"/quiz-app-json/images/589B.png\"",
         "incorrect_answers": [
-            "<img src=\"/quiz-app/images/589A.png\"",
-            "<img src=\"/quiz-app/images/589C.png\"",
-            "<img src=\"/quiz-app/images/589D.png\""
+            "<img src=\"/quiz-app-json/images/589A.png\"",
+            "<img src=\"/quiz-app-json/images/589C.png\"",
+            "<img src=\"/quiz-app-json/images/589D.png\""
         ]
     },
     {
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "590.  Kaj prikazuje slika?<div><img src=\"/quiz-app/images/paste-f71f6ffe349a66ddc696470916e1b9acaed6dff6.jpg\"/></div>",
+        "question": "590.  Kaj prikazuje slika?<div><img src=\"/quiz-app-json/images/paste-f71f6ffe349a66ddc696470916e1b9acaed6dff6.jpg\"/></div>",
         "correct_answer": "Nizkoprepustni filter Pi",
         "incorrect_answers": [
             "Nizkoprepustni filter T",
@@ -795,7 +795,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "591.  Kaj prikazuje slika?<div><img src=\"/quiz-app/images/paste-9ac5e9c1886bdbb7b32b2a41e85c3abdfdd3630f.jpg\"/></div>",
+        "question": "591.  Kaj prikazuje slika?<div><img src=\"/quiz-app-json/images/paste-9ac5e9c1886bdbb7b32b2a41e85c3abdfdd3630f.jpg\"/></div>",
         "correct_answer": "Nizkoprepustni filter T",
         "incorrect_answers": [
             "Nizkoprepustni filter Pi",
@@ -819,7 +819,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "601.  Kateri element prikazuje simbol?<div><img src=\"/quiz-app/images/paste-f93ca1e79e0eebd7190b00093ce3637ca933e999.jpg\"/></div>",
+        "question": "601.  Kateri element prikazuje simbol?<div><img src=\"/quiz-app-json/images/paste-f93ca1e79e0eebd7190b00093ce3637ca933e999.jpg\"/></div>",
         "correct_answer": "Diodo",
         "incorrect_answers": [
             "Zenerjevo diodo",
@@ -831,7 +831,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "602.  Kateri element prikazuje simbol?<div><img src=\"/quiz-app/images/paste-298c52808be573e20945c90b6ef015b4655dfcc3.jpg\"/></div>",
+        "question": "602.  Kateri element prikazuje simbol?<div><img src=\"/quiz-app-json/images/paste-298c52808be573e20945c90b6ef015b4655dfcc3.jpg\"/></div>",
         "correct_answer": "Zenerjevo diodo",
         "incorrect_answers": [
             "Diodo",
@@ -843,7 +843,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "604.  Kaj prikazuje slika?<div><img src=\"/quiz-app/images/paste-95b23ab9ed189e3a4f91782cde5b9b87c659e594.jpg\"/></div>",
+        "question": "604.  Kaj prikazuje slika?<div><img src=\"/quiz-app-json/images/paste-95b23ab9ed189e3a4f91782cde5b9b87c659e594.jpg\"/></div>",
         "correct_answer": "Simbol bipolarnega NPN tranzistorja",
         "incorrect_answers": [
             "Simbol za dve diodi",
@@ -855,7 +855,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "607.  Kaj prikazuje slika?<div><img src=\"/quiz-app/images/paste-adcf15b07453a846417865d0dfe3b7c261e81bbd.jpg\"/></div>",
+        "question": "607.  Kaj prikazuje slika?<div><img src=\"/quiz-app-json/images/paste-adcf15b07453a846417865d0dfe3b7c261e81bbd.jpg\"/></div>",
         "correct_answer": "Simbol za spojni FET",
         "incorrect_answers": [
             "Simbol za bipolarni tranzistor",
@@ -867,7 +867,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "612.  Katero logično funkcijo lahko realiziramo z elementom, ki ga ponazarja simbol na sliki?<div><img src=\"/quiz-app/images/paste-290f69678717cead8549135d2e8da6ff3c5ddaac.jpg\"/></div>",
+        "question": "612.  Katero logično funkcijo lahko realiziramo z elementom, ki ga ponazarja simbol na sliki?<div><img src=\"/quiz-app-json/images/paste-290f69678717cead8549135d2e8da6ff3c5ddaac.jpg\"/></div>",
         "correct_answer": "Logični IN",
         "incorrect_answers": [
             "Logični ALI",
@@ -879,7 +879,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "613.  Na sliki je simbol za:<div><img src=\"/quiz-app/images/paste-b1b46768b9d187cd498b13ca693da4e7bf348522.jpg\"/></div>",
+        "question": "613.  Na sliki je simbol za:<div><img src=\"/quiz-app-json/images/paste-b1b46768b9d187cd498b13ca693da4e7bf348522.jpg\"/></div>",
         "correct_answer": "vrata NE",
         "incorrect_answers": [
             "vrata ALI",
@@ -891,7 +891,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "614.  Na sliki je simbol za:<div><img src=\"/quiz-app/images/paste-ac01a2e7f6d816e6fb4fb59df719a9f194b16c52.jpg\"/></div>",
+        "question": "614.  Na sliki je simbol za:<div><img src=\"/quiz-app-json/images/paste-ac01a2e7f6d816e6fb4fb59df719a9f194b16c52.jpg\"/></div>",
         "correct_answer": "vrata NEALI",
         "incorrect_answers": [
             "vrata NE",
@@ -903,7 +903,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "615.  Kaj je na sliki?<div><img src=\"/quiz-app/images/paste-083b66b0e03ebfb06ae3c3aa7970153c25898915.jpg\"/></div>",
+        "question": "615.  Kaj je na sliki?<div><img src=\"/quiz-app-json/images/paste-083b66b0e03ebfb06ae3c3aa7970153c25898915.jpg\"/></div>",
         "correct_answer": "Simbol za FLIP-FLOP",
         "incorrect_answers": [
             "Simbol za vrata NE",
@@ -915,7 +915,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "616.  Kaj nam ponazarja simbol na sliki?<div><img src=\"/quiz-app/images/paste-8cf61627de37aaca92fd26c561d5c2d08c1542ce.jpg\"/></div>",
+        "question": "616.  Kaj nam ponazarja simbol na sliki?<div><img src=\"/quiz-app-json/images/paste-8cf61627de37aaca92fd26c561d5c2d08c1542ce.jpg\"/></div>",
         "correct_answer": "Operacijski ojačevalnik",
         "incorrect_answers": [
             "Antenski ojačevalnik",
@@ -927,7 +927,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "710.  Kaj prikazuje slika?<div><img src=\"/quiz-app/images/paste-f70ff05caea7f530b070131ed0801af69c9daff2.jpg\"/></div>",
+        "question": "710.  Kaj prikazuje slika?<div><img src=\"/quiz-app-json/images/paste-f70ff05caea7f530b070131ed0801af69c9daff2.jpg\"/></div>",
         "correct_answer": "PLL sintetizator",
         "incorrect_answers": [
             "Direktni digitalni sintetizator (DDS)",
@@ -939,7 +939,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "719.  Kaj prikazuje slika?<div><img src=\"/quiz-app/images/paste-f6e078a86494ec7c141863430718c9f98eb7d663.jpg\"/></div>",
+        "question": "719.  Kaj prikazuje slika?<div><img src=\"/quiz-app-json/images/paste-f6e078a86494ec7c141863430718c9f98eb7d663.jpg\"/></div>",
         "correct_answer": "Preprost CW oddajnik",
         "incorrect_answers": [
             "Preprost SSB oddajnik",
@@ -951,7 +951,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "723.  Kaj prikazuje slika?<div><img src=\"/quiz-app/images/paste-e6978ff4eea2da3a07856794b9c214a69253bf90.jpg\"/></div>",
+        "question": "723.  Kaj prikazuje slika?<div><img src=\"/quiz-app-json/images/paste-e6978ff4eea2da3a07856794b9c214a69253bf90.jpg\"/></div>",
         "correct_answer": "SSB oddajnik",
         "incorrect_answers": [
             "Superheterodinski sprejemnik",
@@ -963,7 +963,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "724.  Na sliki je načelna shema SSB oddajnika. Kateri sklop je označen z vprašajem?<div><img src=\"/quiz-app/images/paste-f726b7c3b2d9917746bb1db786cf8c4f6a338417.jpg\"/></div>",
+        "question": "724.  Na sliki je načelna shema SSB oddajnika. Kateri sklop je označen z vprašajem?<div><img src=\"/quiz-app-json/images/paste-f726b7c3b2d9917746bb1db786cf8c4f6a338417.jpg\"/></div>",
         "correct_answer": "SSB filter",
         "incorrect_answers": [
             "Množilna stopnja",
@@ -975,7 +975,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "725.  Na sliki je načelna shema SSB oddajnika. Kateri sklop je označen z vprašajem?<div><img src=\"/quiz-app/images/paste-7b09b415a101d69e704942f017765dc573d6b06f.jpg\"/></div>",
+        "question": "725.  Na sliki je načelna shema SSB oddajnika. Kateri sklop je označen z vprašajem?<div><img src=\"/quiz-app-json/images/paste-7b09b415a101d69e704942f017765dc573d6b06f.jpg\"/></div>",
         "correct_answer": "Generator nosilne frekvence",
         "incorrect_answers": [
             "SSB filter",
@@ -987,7 +987,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "731.  Kaj prikazuje slika?<div><img src=\"/quiz-app/images/paste-03f229fa3db2f756885b556465edfbbaacca53b7.jpg\"/></div>",
+        "question": "731.  Kaj prikazuje slika?<div><img src=\"/quiz-app-json/images/paste-03f229fa3db2f756885b556465edfbbaacca53b7.jpg\"/></div>",
         "correct_answer": "Preprost FM oddajnik",
         "incorrect_answers": [
             "Preprost FM sprejemnik",
@@ -999,7 +999,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "732.  Na sliki je načelna shema UKV FM oddajnika. Kateri sklop je označen z vprašajem?<div><img src=\"/quiz-app/images/paste-5234ab5ee37d5e247040239632aef1083545ebd5.jpg\"/></div>",
+        "question": "732.  Na sliki je načelna shema UKV FM oddajnika. Kateri sklop je označen z vprašajem?<div><img src=\"/quiz-app-json/images/paste-5234ab5ee37d5e247040239632aef1083545ebd5.jpg\"/></div>",
         "correct_answer": "Veriga množilnih stopenj",
         "incorrect_answers": [
             "SSB filter",
@@ -1011,7 +1011,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "734.  Na sliki je načelna shema UKV FM oddajnika. Kateri sklop je označen z vprašajem?<div><img src=\"/quiz-app/images/paste-399e34c5698f5ba3d6d67290ee6dc82c532e7463.jpg\"/></div>",
+        "question": "734.  Na sliki je načelna shema UKV FM oddajnika. Kateri sklop je označen z vprašajem?<div><img src=\"/quiz-app-json/images/paste-399e34c5698f5ba3d6d67290ee6dc82c532e7463.jpg\"/></div>",
         "correct_answer": "Kristalni oscilator",
         "incorrect_answers": [
             "SSB filter",
@@ -1023,7 +1023,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "778. Kaj prikazuje slika?<div><img src=\"/quiz-app/images/paste-19f223b155ed6277d6200395653dfaed0ddd8df9.jpg\"/></div>",
+        "question": "778. Kaj prikazuje slika?<div><img src=\"/quiz-app-json/images/paste-19f223b155ed6277d6200395653dfaed0ddd8df9.jpg\"/></div>",
         "correct_answer": "Sprejemnik z direktnim mešanjem",
         "incorrect_answers": [
             "Enojni superheterodinski sprejemnik",
@@ -1035,7 +1035,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "779.  Na sliki je sprejemnik z direktnim mešanjem. Kateri sklop je označen z vprašajem?<div><img src=\"/quiz-app/images/paste-df1fdd9f603121b41f317c78094c72e877336b25.jpg\"/></div>",
+        "question": "779.  Na sliki je sprejemnik z direktnim mešanjem. Kateri sklop je označen z vprašajem?<div><img src=\"/quiz-app-json/images/paste-df1fdd9f603121b41f317c78094c72e877336b25.jpg\"/></div>",
         "correct_answer": "Nizkofrekvenčni ojačevalnik",
         "incorrect_answers": [
             "Množilna stopnja",
@@ -1047,7 +1047,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "780.  Na sliki je sprejemnik z direktnim mešanjem. Kateri sklop je označen z vprašajem?<div><img src=\"/quiz-app/images/paste-8ec1998c53757ec8b83d30b22cd37ee4185c8226.jpg\"/></div>",
+        "question": "780.  Na sliki je sprejemnik z direktnim mešanjem. Kateri sklop je označen z vprašajem?<div><img src=\"/quiz-app-json/images/paste-8ec1998c53757ec8b83d30b22cd37ee4185c8226.jpg\"/></div>",
         "correct_answer": "Mešalnik",
         "incorrect_answers": [
             "Množilna stopnja",
@@ -1059,7 +1059,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "787.  Kaj prikazuje slika?<div><img src=\"/quiz-app/images/paste-ea6cbbce40e706c55dd919720944dbc6c5671258.jpg\"/></div>",
+        "question": "787.  Kaj prikazuje slika?<div><img src=\"/quiz-app-json/images/paste-ea6cbbce40e706c55dd919720944dbc6c5671258.jpg\"/></div>",
         "correct_answer": "Enojni superheterodinski sprejemnik",
         "incorrect_answers": [
             "Sprejemnik z direktnim mešanjem",
@@ -1071,7 +1071,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "791.  Na sliki je enojni superheterodinski sprejemnik. Kateri sklop je označen z vprašajem?<div><img src=\"/quiz-app/images/paste-599257f5607ed15fec833d6fce9514dd6b67a60d.jpg\"/></div>",
+        "question": "791.  Na sliki je enojni superheterodinski sprejemnik. Kateri sklop je označen z vprašajem?<div><img src=\"/quiz-app-json/images/paste-599257f5607ed15fec833d6fce9514dd6b67a60d.jpg\"/></div>",
         "correct_answer": "RF ojačevalnik",
         "incorrect_answers": [
             "Mešalnik",
@@ -1083,7 +1083,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "793.  Na sliki je enojni superheterodinski sprejemnik. Kateri sklop je označen z vprašajem?<div><img src=\"/quiz-app/images/paste-facdc3667a9f3034b42608464c8c06cc26a5873f.jpg\"/></div>",
+        "question": "793.  Na sliki je enojni superheterodinski sprejemnik. Kateri sklop je označen z vprašajem?<div><img src=\"/quiz-app-json/images/paste-facdc3667a9f3034b42608464c8c06cc26a5873f.jpg\"/></div>",
         "correct_answer": "Mešalnik",
         "incorrect_answers": [
             "RF ojačevalnik",
@@ -1095,7 +1095,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "794.  Na sliki je enojni superheterodinski sprejemnik. Kateri sklop je označen z vprašajem?<div><img src=\"/quiz-app/images/paste-6ea86c85c238b9323ae6c7853be6ddc9d6b153d2.jpg\"/></div>",
+        "question": "794.  Na sliki je enojni superheterodinski sprejemnik. Kateri sklop je označen z vprašajem?<div><img src=\"/quiz-app-json/images/paste-6ea86c85c238b9323ae6c7853be6ddc9d6b153d2.jpg\"/></div>",
         "correct_answer": "AGC detektor",
         "incorrect_answers": [
             "RF ojačevalnik",
@@ -1107,7 +1107,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "796.  Na sliki je enojni superheterodinski sprejemnik. Kateri sklop je označen z vprašajem?<div><img src=\"/quiz-app/images/paste-cb579228e7cb015983eeeb39a3a42c908b4644da.jpg\"/></div>",
+        "question": "796.  Na sliki je enojni superheterodinski sprejemnik. Kateri sklop je označen z vprašajem?<div><img src=\"/quiz-app-json/images/paste-cb579228e7cb015983eeeb39a3a42c908b4644da.jpg\"/></div>",
         "correct_answer": "MF ojačevalnik",
         "incorrect_answers": [
             "Mešalnik",
@@ -1119,7 +1119,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "797.  Na sliki je enojni superheterodinski sprejemnik. Kateri sklop je označen z vprašajem?<div><img src=\"/quiz-app/images/paste-52c63cae374217e2655ba810d552c4fa3901ab39.jpg\"/></div>",
+        "question": "797.  Na sliki je enojni superheterodinski sprejemnik. Kateri sklop je označen z vprašajem?<div><img src=\"/quiz-app-json/images/paste-52c63cae374217e2655ba810d552c4fa3901ab39.jpg\"/></div>",
         "correct_answer": "MF filter",
         "incorrect_answers": [
             "MF ojačevalnik",
@@ -1131,7 +1131,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "872.  Kakšna je širina sevalnega snopa antene s sevalnim diagramom, podanim na sliki?<div><img src=\"/quiz-app/images/paste-7b20278cec23ffb9944b368d4669ad7c41b29a14.jpg\"/></div>",
+        "question": "872.  Kakšna je širina sevalnega snopa antene s sevalnim diagramom, podanim na sliki?<div><img src=\"/quiz-app-json/images/paste-7b20278cec23ffb9944b368d4669ad7c41b29a14.jpg\"/></div>",
         "correct_answer": "60 stopinj",
         "incorrect_answers": [
             "30 stopinj",
@@ -1143,7 +1143,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "873. Kakšna je širina sevalnega snopa antene s sevalnim diagramom, podanim na sliki?<div><img src=\"/quiz-app/images/paste-1df11c4bc1a5559d698628b9d9ec38b9c53c95e2.jpg\"/></div>",
+        "question": "873. Kakšna je širina sevalnega snopa antene s sevalnim diagramom, podanim na sliki?<div><img src=\"/quiz-app-json/images/paste-1df11c4bc1a5559d698628b9d9ec38b9c53c95e2.jpg\"/></div>",
         "correct_answer": "120 stopinj",
         "incorrect_answers": [
             "30 stopinj",
@@ -1155,7 +1155,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "875.  Kakšno je razmerje naprej-nazaj pri anteni s sledečim diagramom sevanja?<div><img src=\"/quiz-app/images/paste-c574c0033f56a0029de8e36d23fa1c4fddf47945.jpg\"/></div>",
+        "question": "875.  Kakšno je razmerje naprej-nazaj pri anteni s sledečim diagramom sevanja?<div><img src=\"/quiz-app-json/images/paste-c574c0033f56a0029de8e36d23fa1c4fddf47945.jpg\"/></div>",
         "correct_answer": "10 dB",
         "incorrect_answers": [
             "20 dB",
@@ -1167,7 +1167,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "876. Koliko znaša slabljenje stranskih snopov pri anteni s sledečim diagramom sevanja?<div><img src=\"/quiz-app/images/paste-75ea968040575b35929a0637d5d9cf85bdb69ad2.jpg\"/></div>",
+        "question": "876. Koliko znaša slabljenje stranskih snopov pri anteni s sledečim diagramom sevanja?<div><img src=\"/quiz-app-json/images/paste-75ea968040575b35929a0637d5d9cf85bdb69ad2.jpg\"/></div>",
         "correct_answer": "10 dB",
         "incorrect_answers": [
             "3 dB",
@@ -1179,7 +1179,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "878.  Katera od naštetih anten ima lahko vertikalni sevalni diagram, podan na sliki?<div><img src=\"/quiz-app/images/paste-06a0db356d6a246b0dfacacbc3ac518b469f5efe.jpg\"/></div>",
+        "question": "878.  Katera od naštetih anten ima lahko vertikalni sevalni diagram, podan na sliki?<div><img src=\"/quiz-app-json/images/paste-06a0db356d6a246b0dfacacbc3ac518b469f5efe.jpg\"/></div>",
         "correct_answer": "Vertikalni dipol nad zemljo",
         "incorrect_answers": [
             "Yagi antena",
@@ -1191,7 +1191,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "879.  Katera od naštetih anten ima lahko vertikalni sevalni diagram, podan na sliki?<div><img src=\"/quiz-app/images/paste-300dc6d0d3bd7f9c2e16f45b1fed810a74fe5100.jpg\"/></div>",
+        "question": "879.  Katera od naštetih anten ima lahko vertikalni sevalni diagram, podan na sliki?<div><img src=\"/quiz-app-json/images/paste-300dc6d0d3bd7f9c2e16f45b1fed810a74fe5100.jpg\"/></div>",
         "correct_answer": "Yagi antena",
         "incorrect_answers": [
             "GP antena",
@@ -1203,7 +1203,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "880.  Katera od naštetih anten ima lahko vertikalni sevalni diagram, podan na sliki?<div><img src=\"/quiz-app/images/paste-654244c23372e2653897c9acc2b508dad3b2dd60.jpg\"/></div>",
+        "question": "880.  Katera od naštetih anten ima lahko vertikalni sevalni diagram, podan na sliki?<div><img src=\"/quiz-app-json/images/paste-654244c23372e2653897c9acc2b508dad3b2dd60.jpg\"/></div>",
         "correct_answer": "GP antena",
         "incorrect_answers": [
             "Yagi antena",
@@ -1215,7 +1215,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "881.  Katera od naštetih anten ima lahko horizontalni sevalni diagram, podan na sliki?<div><img src=\"/quiz-app/images/paste-f9406990ab7f3591af709a1423adfc4beadc65cf.jpg\"/></div>",
+        "question": "881.  Katera od naštetih anten ima lahko horizontalni sevalni diagram, podan na sliki?<div><img src=\"/quiz-app-json/images/paste-f9406990ab7f3591af709a1423adfc4beadc65cf.jpg\"/></div>",
         "correct_answer": "Horizontalni dipol",
         "incorrect_answers": [
             "Yagi antena",
@@ -1227,7 +1227,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "882.  Katera od naštetih anten ima lahko horizontalni sevalni diagram, podan na sliki?<div><img src=\"/quiz-app/images/paste-18761210dfdeebb128e16a64df249b5cd5313000.jpg\"/></div>",
+        "question": "882.  Katera od naštetih anten ima lahko horizontalni sevalni diagram, podan na sliki?<div><img src=\"/quiz-app-json/images/paste-18761210dfdeebb128e16a64df249b5cd5313000.jpg\"/></div>",
         "correct_answer": "GP antena",
         "incorrect_answers": [
             "Yagi antena",
@@ -1239,7 +1239,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "883.  Katera od naštetih anten ima lahko horizontalni sevalni diagram, podan na sliki?<div><img src=\"/quiz-app/images/paste-b780cdd63565db7b475e9f04beb9edbde0b86806.jpg\"/></div>",
+        "question": "883.  Katera od naštetih anten ima lahko horizontalni sevalni diagram, podan na sliki?<div><img src=\"/quiz-app-json/images/paste-b780cdd63565db7b475e9f04beb9edbde0b86806.jpg\"/></div>",
         "correct_answer": "Yagi antena",
         "incorrect_answers": [
             "Long wire antena",
@@ -1251,7 +1251,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "912.  Vod na sliki ima impedanco Z. S kakšnim bremenom R dobimo porazdelitev napetosti vzdolž voda, kot jo kaže slika?<div><img src=\"/quiz-app/images/paste-269387774bbee08097581a75666bcd86682a2d6c.jpg\"/></div>",
+        "question": "912.  Vod na sliki ima impedanco Z. S kakšnim bremenom R dobimo porazdelitev napetosti vzdolž voda, kot jo kaže slika?<div><img src=\"/quiz-app-json/images/paste-269387774bbee08097581a75666bcd86682a2d6c.jpg\"/></div>",
         "correct_answer": "R = Z",
         "incorrect_answers": [
             "R = 0",
@@ -1263,7 +1263,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "913.  Vod na sliki ima impedanco Z. S kakšnim bremenom R dobimo porazdelitev napetosti vzdolž voda, kot jo kaže slika?<div><img src=\"/quiz-app/images/paste-43d5414c67dfb6354b0803e1c6fe6dfff6463205.jpg\"/></div>",
+        "question": "913.  Vod na sliki ima impedanco Z. S kakšnim bremenom R dobimo porazdelitev napetosti vzdolž voda, kot jo kaže slika?<div><img src=\"/quiz-app-json/images/paste-43d5414c67dfb6354b0803e1c6fe6dfff6463205.jpg\"/></div>",
         "correct_answer": "R = 0",
         "incorrect_answers": [
             "R = Z",
@@ -1275,7 +1275,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "915.  Vod na sliki ima impedanco Z. S kakšnim bremenom R dobimo porazdelitev napetosti vzdolž voda, kot jo kaže slika?<div><img src=\"/quiz-app/images/paste-633a3210b8a530d0a4f3d5758c10cf74da798ef6.jpg\"/></div>",
+        "question": "915.  Vod na sliki ima impedanco Z. S kakšnim bremenom R dobimo porazdelitev napetosti vzdolž voda, kot jo kaže slika?<div><img src=\"/quiz-app-json/images/paste-633a3210b8a530d0a4f3d5758c10cf74da798ef6.jpg\"/></div>",
         "correct_answer": "R > Z",
         "incorrect_answers": [
             "R = Z",
@@ -1287,7 +1287,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "916.  Vod na sliki ima impedanco Z. S kakšnim bremenom R dobimo porazdelitev napetosti vzdolž voda, kot jo kaže slika?<div><img src=\"/quiz-app/images/paste-571232382300d3ee0e4f34f20c7f838d9269435b.jpg\"/></div>",
+        "question": "916.  Vod na sliki ima impedanco Z. S kakšnim bremenom R dobimo porazdelitev napetosti vzdolž voda, kot jo kaže slika?<div><img src=\"/quiz-app-json/images/paste-571232382300d3ee0e4f34f20c7f838d9269435b.jpg\"/></div>",
         "correct_answer": "R < Z",
         "incorrect_answers": [
             "R = Z",
@@ -1299,7 +1299,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "961.  Kaj prikazuje slika?<div><img src=\"/quiz-app/images/paste-7d04f6ffca62220ac29fe52ae19c44f94aff6b1c.jpg\"/></div>",
+        "question": "961.  Kaj prikazuje slika?<div><img src=\"/quiz-app-json/images/paste-7d04f6ffca62220ac29fe52ae19c44f94aff6b1c.jpg\"/></div>",
         "correct_answer": "Inštrument z vrtljivo tuljavico",
         "incorrect_answers": [
             "Elektromotor",
@@ -1311,7 +1311,7 @@
         "category": "HAM izpit",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "914.  Vod na sliki ima impedanco Z. S kakšnim bremenom R dobimo porazdelitev napetosti vzdolž voda, kot jo kaže slika?<div><img src=\"/quiz-app/images/paste-2c6987964a93932aee650ef19367b50e083b73ca.jpg\"/></div>",
+        "question": "914.  Vod na sliki ima impedanco Z. S kakšnim bremenom R dobimo porazdelitev napetosti vzdolž voda, kot jo kaže slika?<div><img src=\"/quiz-app-json/images/paste-2c6987964a93932aee650ef19367b50e083b73ca.jpg\"/></div>",
         "correct_answer": "R = ∞",
         "incorrect_answers": [
             "R = Z",
