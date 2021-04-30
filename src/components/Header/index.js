@@ -31,7 +31,7 @@ const Header = () => {
   return (
     <Menu stackable inverted size="massive">
       <Menu.Item header>
-        <h1 style={{ color: '#2185D0' }}>QuizApp</h1>
+        <h1 style={{ color: '#2185D0' }}>QuizApp-Json</h1>
       </Menu.Item>
       {promptEvent && !isAppInstalled && (
         <Menu.Item position="right">

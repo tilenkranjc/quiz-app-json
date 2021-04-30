@@ -33,9 +33,9 @@ const calculateGrade = score => {
   }
 
   if (score >= 60) {
-    remarks = 'Congratulations, YOU PASSED!';
+    remarks = 'Čestitke, OPRAVIL SI IZPIT!';
   } else {
-    remarks = 'Sorry, YOU FAILED!';
+    remarks = 'Žal, NISI OPRAVIL IZPITA!';
   }
 
   return {

@@ -27,12 +27,12 @@ import Offline from '../Offline';
 
 const Main = ({ startQuiz }) => {
   const [category, setCategory] = useState('0');
-  const [numOfQuestions, setNumOfQuestions] = useState(5);
+  const [numOfQuestions, setNumOfQuestions] = useState(60);
   const [difficulty, setDifficulty] = useState('0');
   const [questionsType, setQuestionsType] = useState('0');
   const [countdownTime, setCountdownTime] = useState({
-    hours: 0,
-    minutes: 120,
+    hours: 3600,
+    minutes: 1800,
     seconds: 0,
   });
   const [processing, setProcessing] = useState(false);
@@ -144,11 +144,11 @@ const Main = ({ startQuiz }) => {
             <Item.Image src={mindImg} />
             <Item.Content>
               <Item.Header>
-                <h1>The Ultimate Trivia Quiz</h1>
+                <h1>Generator vprašanj za radioamatersko licenco razred A</h1>
               </Item.Header>
               {error && (
                 <Message error onDismiss={() => setError(null)}>
-                  <Message.Header>Error!</Message.Header>
+                  <Message.Header>Napaka!</Message.Header>
                   {error.message}
                 </Message>
               )}
@@ -170,8 +170,8 @@ const Main = ({ startQuiz }) => {
                   fluid
                   selection
                   name="numOfQ"
-                  placeholder="Select No. of Questions"
-                  header="Select No. of Questions"
+                  placeholder="Število vprašanj"
+                  header="Število vprašanj"
                   options={NUM_OF_QUESTIONS}
                   value={numOfQuestions}
                   onChange={(e, { value }) => setNumOfQuestions(value)}
@@ -206,8 +206,8 @@ const Main = ({ startQuiz }) => {
                   search
                   selection
                   name="hours"
-                  placeholder="Select Hours"
-                  header="Select Hours"
+                  placeholder="Ure"
+                  header="Ure"
                   options={COUNTDOWN_TIME.hours}
                   value={countdownTime.hours}
                   onChange={handleTimeChange}
@@ -217,8 +217,8 @@ const Main = ({ startQuiz }) => {
                   search
                   selection
                   name="minutes"
-                  placeholder="Select Minutes"
-                  header="Select Minutes"
+                  placeholder="Minute"
+                  header="Minute"
                   options={COUNTDOWN_TIME.minutes}
                   value={countdownTime.minutes}
                   onChange={handleTimeChange}
@@ -228,8 +228,8 @@ const Main = ({ startQuiz }) => {
                   search
                   selection
                   name="seconds"
-                  placeholder="Select Seconds"
-                  header="Select Seconds"
+                  placeholder="Sekunde"
+                  header="Sekunde"
                   options={COUNTDOWN_TIME.seconds}
                   value={countdownTime.seconds}
                   onChange={handleTimeChange}
@@ -243,7 +243,7 @@ const Main = ({ startQuiz }) => {
                   size="big"
                   icon="play"
                   labelPosition="left"
-                  content={processing ? 'Processing...' : 'Play Now'}
+                  content={processing ? 'Procesiram...' : 'Začni'}
                   onClick={fetchDataL}
                   disabled={!allFieldsSelected || processing}
                 />

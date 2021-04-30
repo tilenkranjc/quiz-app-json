@@ -76,7 +76,7 @@ const Quiz = ({ data, countdownTime, endQuiz }) => {
                   <Header as="h1" block floated="left">
                     <Icon name="info circle" />
                     <Header.Content>
-                      {`Question No.${questionIndex + 1} of ${data.length}`}
+                      {`Vprašanje ${questionIndex + 1} od ${data.length}`}
                     </Header.Content>
                   </Header>
                   <Countdown
@@ -92,7 +92,7 @@ const Quiz = ({ data, countdownTime, endQuiz }) => {
                   </Message>
                   <br />
                   <Item.Description>
-                    <h3>Please choose one of the following answers:</h3>
+                    <h3>Izberi pravilni odgovor:</h3>
                   </Item.Description>
                   <Divider />
                   <Menu vertical fluid size="massive">
@@ -119,7 +119,7 @@ const Quiz = ({ data, countdownTime, endQuiz }) => {
                 <Item.Extra>
                   <Button
                     primary
-                    content="Next"
+                    content="Naprej"
                     onClick={handleNext}
                     floated="right"
                     size="big"

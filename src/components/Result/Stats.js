@@ -22,28 +22,28 @@ const Stats = ({
         {remarks}
       </Header>
       <Header as="h2" textAlign="center" block>
-        Grade: {grade}
+        Ocena: {grade}
       </Header>
       <Header as="h3" textAlign="center" block>
-        Total Questions: {totalQuestions}
+        Vseh vprašanj: {totalQuestions}
       </Header>
       <Header as="h3" textAlign="center" block>
-        Correct Answers: {correctAnswers}
+        Pravilnih odgovorov: {correctAnswers}
       </Header>
       <Header as="h3" textAlign="center" block>
-        Your Score: {score}%
+        Dosežen odstotek: {score}%
       </Header>
       <Header as="h3" textAlign="center" block>
-        Passing Score: 60%
+        Minimalni odstotek: 60%
       </Header>
       <Header as="h3" textAlign="center" block>
-        Time Taken:{' '}
+        Čas:{' '}
         {`${Number(hours)}h ${Number(minutes)}m ${Number(seconds)}s`}
       </Header>
       <div style={{ marginTop: 35 }}>
         <Button
           primary
-          content="Play Again"
+          content="Ponovi vprašalnik"
           onClick={replayQuiz}
           size="big"
           icon="redo"
@@ -52,7 +52,7 @@ const Stats = ({
         />
         <Button
           color="teal"
-          content="Back to Home"
+          content="Na začetek"
           onClick={resetQuiz}
           size="big"
           icon="home"
