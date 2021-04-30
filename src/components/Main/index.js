@@ -15,21 +15,19 @@ import mindImg from '../../images/mind.svg';
 import questions from '../../constants/data.json';
 
 import {
-  CATEGORIES,
+  //CATEGORIES,
   NUM_OF_QUESTIONS,
-  DIFFICULTY,
-  QUESTIONS_TYPE,
+  //DIFFICULTY,
+  //QUESTIONS_TYPE,
   COUNTDOWN_TIME,
 } from '../../constants';
 import { shuffle } from '../../utils';
 
-import Offline from '../Offline';
-
 const Main = ({ startQuiz }) => {
-  const [category, setCategory] = useState('0');
+  const [category] = useState('0');
   const [numOfQuestions, setNumOfQuestions] = useState(60);
-  const [difficulty, setDifficulty] = useState('0');
-  const [questionsType, setQuestionsType] = useState('0');
+  const [difficulty] = useState('0');
+  const [questionsType] = useState('0');
   const [countdownTime, setCountdownTime] = useState({
     hours: 3600,
     minutes: 1800,
@@ -37,7 +35,7 @@ const Main = ({ startQuiz }) => {
   });
   const [processing, setProcessing] = useState(false);
   const [error, setError] = useState(null);
-  const [offline, setOffline] = useState(false);
+  //const [offline, setOffline] = useState(false);
 
   const handleTimeChange = (e, { name, value }) => {
     setCountdownTime({ ...countdownTime, [name]: value });
@@ -76,63 +74,63 @@ const Main = ({ startQuiz }) => {
     );
   }
 
-  const fetchData = () => {
-    setProcessing(true);
+  // const fetchData = () => {
+  //   setProcessing(true);
 
-    if (error) setError(null);
+  //   if (error) setError(null);
 
-    const API = `https://opentdb.com/api.php?amount=${numOfQuestions}&category=${category}&difficulty=${difficulty}&type=${questionsType}`;
+  //   const API = `https://opentdb.com/api.php?amount=${numOfQuestions}&category=${category}&difficulty=${difficulty}&type=${questionsType}`;
 
-    fetch(API)
-      .then(respone => respone.json())
-      .then(data =>
-        setTimeout(() => {
-          const { response_code, results } = data;
+  //   fetch(API)
+  //     .then(respone => respone.json())
+  //     .then(data =>
+  //       setTimeout(() => {
+  //         const { response_code, results } = data;
 
-          if (response_code === 1) {
-            const message = (
-              <p>
-                The API doesn't have enough questions for your query. (Ex.
-                Asking for 50 Questions in a Category that only has 20.)
-                <br />
-                <br />
-                Please change the <strong>No. of Questions</strong>,{' '}
-                <strong>Difficulty Level</strong>, or{' '}
-                <strong>Type of Questions</strong>.
-              </p>
-            );
+  //         if (response_code === 1) {
+  //           const message = (
+  //             <p>
+  //               The API doesn't have enough questions for your query. (Ex.
+  //               Asking for 50 Questions in a Category that only has 20.)
+  //               <br />
+  //               <br />
+  //               Please change the <strong>No. of Questions</strong>,{' '}
+  //               <strong>Difficulty Level</strong>, or{' '}
+  //               <strong>Type of Questions</strong>.
+  //             </p>
+  //           );
 
-            setProcessing(false);
-            setError({ message });
+  //           setProcessing(false);
+  //           setError({ message });
 
-            return;
-          }
+  //           return;
+  //         }
 
-          results.forEach(element => {
-            element.options = shuffle([
-              element.correct_answer,
-              ...element.incorrect_answers,
-            ]);
-          });
+  //         results.forEach(element => {
+  //           element.options = shuffle([
+  //             element.correct_answer,
+  //             ...element.incorrect_answers,
+  //           ]);
+  //         });
 
-          setProcessing(false);
-          startQuiz(
-            results,
-            countdownTime.hours + countdownTime.minutes + countdownTime.seconds
-          );
-        }, 1000)
-      )
-      .catch(error =>
-        setTimeout(() => {
-          if (!navigator.onLine) {
-            setOffline(true);
-          } else {
-            setProcessing(false);
-            setError(error);
-          }
-        }, 1000)
-      );
-  };
+  //         setProcessing(false);
+  //         startQuiz(
+  //           results,
+  //           countdownTime.hours + countdownTime.minutes + countdownTime.seconds
+  //         );
+  //       }, 1000)
+  //     )
+  //     .catch(error =>
+  //       setTimeout(() => {
+  //         if (!navigator.onLine) {
+  //           setOffline(true);
+  //         } else {
+  //           setProcessing(false);
+  //           setError(error);
+  //         }
+  //       }, 1000)
+  //     );
+  // };
 
   //if (offline) return <Offline />;
 
